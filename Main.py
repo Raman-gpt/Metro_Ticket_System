@@ -238,7 +238,6 @@ class MetroSystem:
     
     def display_stations(self):
         print("\nAvailable Metro Stations:")
-        print("___________________________________________________________\n")
         transfer_stations = {s for s, lines in self.station_to_lines.items() if len(lines) > 1}
         for line_name, stations in self.line_to_stations.items():
             stations_with_status = []
@@ -253,7 +252,6 @@ class MetroSystem:
                 station_list_str = station_list_str + " , " + stations_with_status[i]
             print("  " + station_list_str)
         
-        print("___________________________________________________________\n")
 
 
     def purchase_ticket(self, origin, destination):
