@@ -1,0 +1,206 @@
+station_id,station_name
+S1,Rithala
+S2,Rohini West
+S3,Rohini East
+S4,Pitampura
+S5,Kohat Enclave
+S6,Netaji Subhash Place
+S7,Keshav Puram
+S8,Kanhiya Nagar
+S9,Inderlok
+S10,Shastri Nagar
+S11,Pratap Nagar
+S12,Pul Bangash
+S13,Tis Hazari
+S14,Kashmere Gate
+S15,Shastri Park
+S16,Seelampur
+S17,Welcome
+S18,Shahdara
+S19,Mansarovar Park
+S20,Jhilmil
+S21,Dilshad Garden
+S22,Samaypur Badli
+S23,Rohini Sector 18-19
+S24,Haiderpur Badli Mor
+S25,Jahangirpuri
+S26,Adarsh Nagar
+S27,Azadpur
+S28,Model Town
+S29,GTB Nagar
+S30,Vishwavidyalaya
+S31,Vidhan Sabha
+S32,Civil Lines
+S33,Chandni Chowk
+S34,Chawri Bazar
+S35,New Delhi
+S36,Rajiv Chowk
+S37,Patel Chowk
+S38,Central Secretariat
+S39,Udyog Bhawan
+S40,Lok Kalyan Marg
+S41,Jor Bagh
+S42,INA
+S43,AIIMS
+S44,Green Park
+S45,Hauz Khas
+S46,Malviya Nagar
+S47,Saket
+S48,Qutub Minar
+S49,Chhatarpur
+S50,Sultanpur
+S51,Ghitorni
+S52,Arjan Garh
+S53,Guru Dronacharya
+S54,Sikandarpur
+S55,MG Road
+S56,IFFCO Chowk
+S57,HUDA City Centre
+S58,Dwarka Sector 21
+S59,Dwarka Sector 8
+S60,Dwarka Sector 9
+S61,Dwarka Sector 10
+S62,Dwarka Sector 11
+S63,Dwarka Sector 12
+S64,Dwarka Sector 13
+S65,Dwarka Sector 14
+S66,Dwarka
+S67,Dwarka Mor
+S68,Nawada
+S69,Uttam Nagar West
+S70,Uttam Nagar East
+S71,Janakpuri West
+S72,Janakpuri East
+S73,Tilak Nagar
+S74,Subhash Nagar
+S75,Tagore Garden
+S76,Rajouri Garden
+S77,Ramesh Nagar
+S78,Moti Nagar
+S79,Kirti Nagar
+S80,Shadipur
+S81,Patel Nagar
+S82,Rajendra Place
+S83,Karol Bagh
+S84,Jhandewalan
+S85,R.K. Ashram Marg
+S86,Barakhamba Road
+S87,Mandi House
+S88,Pragati Maidan
+S89,Indraprastha
+S90,Yamuna Bank
+S91,Akshardham
+S92,Mayur Vihar-I
+S93,Mayur Vihar Ext.
+S94,New Ashok Nagar
+S95,Noida Sector 15
+S96,Noida Sector 16
+S97,Noida Sector 18
+S98,Botanical Garden
+S99,Lal Qila
+S100,Jama Masjid
+S101,Delhi Gate
+S102,ITO
+S103,Janpath
+S104,Khan Market
+S105,Jawaharlal Nehru Stadium
+S106,Jangpura
+S107,Lajpat Nagar
+S108,Moolchand
+S109,Kailash Colony
+S110,Nehru Place
+S111,Kalkaji Mandir
+S112,Govindpuri
+S113,Okhla
+S114,Jasola Apollo
+S115,Sarita Vihar
+S116,Mohan Estate
+S117,Tughlakabad
+S118,Badarpur Border
+S119,Sarai
+S120,NHPC Chowk
+S121,Mewla Maharajpur
+S122,Bata Chowk
+S123,Neelam Chowk Ajronda
+S124,Escort Mujesar
+S125,Sant Surdas
+S126,Raja Nahar Singh
+S127,Janakpuri West
+S128,Dabri Mor
+S129,Dashrathpuri
+S130,Palam
+S131,Sadar Bazaar Cantonment
+S132,Terminal 1-IGI Airport
+S133,Shankar Vihar
+S134,Vasant Vihar
+S135,Munirka
+S136,RK Puram
+S137,IIT Delhi
+S138,Panchsheel Park
+S139,Chirag Delhi
+S140,Greater Kailash
+S141,Nehru Enclave
+S142,Okhla NSIC
+S143,Sukhdev Vihar
+S144,Jamia Millia Islamia
+S145,Okhla Vihar
+S146,Jasola Vihar Shaheen Bagh
+S147,Kalindi Kunj
+S148,Okhla Bird Sanctuary
+S149,Majlis Park
+S150,Shalimar Bagh
+S151,Shakurpur
+S152,Punjabi Bagh West
+S153,ESI-Basai Darapur
+S154,Mayapuri
+S155,Naraina Vihar
+S156,Delhi Cantt
+S157,Durgabai Deshmukh South Campus
+S158,Sir Vishweshwaraiah Moti Bagh
+S159,Bhikaji Cama Place
+S160,Sarojini Nagar
+S161,South Extension
+S162,Vinobapuri
+S163,Ashram
+S164,Hazrat Nizamuddin
+S165,Mayur Vihar Phase-I
+S166,Trilokpuri Sanjay Lake
+S167,Vinod Nagar East
+S168,Vinod Nagar West
+S169,IP Extension
+S170,Anand Vihar
+S171,Karkardooma
+S172,Krishna Nagar
+S173,East Azad Nagar
+S174,Jaffrabad
+S175,Maujpur-Babarpur
+S176,Gokulpuri
+S177,Johri Enclave
+S178,Shiv Vihar
+S180,Shivaji Stadium
+S181,Dhaula Kuan
+S182,Delhi Aerocity
+S183,IGI Airport
+S185,Ashok Park Main
+S186,Satguru Ram Singh Marg
+S187,Kirti Nagar
+S188,Punjabi Bagh
+S189,Shivaji Park
+S190,Madipur
+S191,Paschim Vihar East
+S192,Paschim Vihar West
+S193,Peera Garhi
+S194,Udyog Nagar
+S195,Nangloi
+S196,Nangloi Railway Station
+S197,Rajdhani Park
+S198,Mundka
+S199,Mundka Industrial Area
+S200,Ghevra
+S201,Tikri Kalan
+S202,Tikri Border
+S203,Pandit Shree Ram Sharma
+S204,Bahadurgarh City
+S205,Brigadier Hoshiyar Singh
+S206,City Park
+S207,Modern Industrial Estate
